@@ -1,0 +1,18 @@
+﻿### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+
+### Java build artifacts ###
+*.class
+target/
+build/
